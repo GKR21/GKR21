@@ -14,15 +14,9 @@
 
 ## 🎓 Education  
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/1/13/Sabaragamuwa_University_of_Sri_Lanka_crest.png" width="80" alt="SUSL Logo"/>
-</p>
-
-<p align="center">
-  <b>Undergraduate</b><br>
-  BSc (Hons) in Software Engineering<br>
-  <a href="https://www.sab.ac.lk/">Sabaragamuwa University of Sri Lanka</a>
-</p>
+**Undergraduate**  
+BSc (Hons) in Software Engineering  
+[Sabaragamuwa University of Sri Lanka](https://www.sab.ac.lk/)  
 
 ---
 
